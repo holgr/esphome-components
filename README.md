@@ -3,8 +3,8 @@ A collection of my ESPHome components
 
 ## pmsa003i with AQI calculations
 
-This includes AQI calculations for the pmsa003i sensor. It's basically a
-port from the existing hm3301 component and combining it with the pmsa003i
+This includes AQI calculations for the [pmsa003i](https://esphome.io/components/sensor/pmsa003i.html) sensor. It's basically a
+port from the existing [hm3301](https://esphome.io/components/sensor/hm3301.html) component and combining it with the pmsa003i
 parts.
 
 Example configuration: 
